@@ -1,5 +1,5 @@
 import unittest
-import schedule_functions as utils
+import src.functions.schedule_functions as utils
 
 
 class TestAreTimesOverlap(unittest.TestCase):
