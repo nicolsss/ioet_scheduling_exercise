@@ -69,7 +69,8 @@ Clone the project using:
 git clone https://github.com/nicolsss/ioet_scheduling_exercise.git
 ~~~
 ### 2. Upload File  
-Upload files to be processed in [data](https://github.com/nicolsss/ioet_scheduling_exercise/blob/master/src/data/) folder
+Upload files to be processed in [data](https://github.com/nicolsss/ioet_scheduling_exercise/blob/master/src/data/) folder.
+When the project starts, it will ask for the name of the file to process.
 ### 3. Run Project
 Windows:
 ~~~
