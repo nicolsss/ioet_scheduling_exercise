@@ -1,4 +1,7 @@
+import sys
+import os
 import unittest
+sys.path.insert(1, os.path.abspath('..'))
 import src.functions.schedule_functions as utils
 
 
